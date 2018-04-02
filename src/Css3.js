@@ -8,8 +8,7 @@ class Css3 extends Component {
             <div className="App-intro">
                 
                 <img src={css3} alt="CSS3" />
-                <h1>CSS3</h1>
-                <br />
+                <br/><br/>
 
                 <div className="container">
                     <div className="skills css" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>

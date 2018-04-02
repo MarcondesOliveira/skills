@@ -8,8 +8,7 @@ class Html5 extends Component {
             <div className="App-intro">
             
                 <img src={html5} alt="HTML5" />
-                <h1>HTML5</h1>
-                <br />
+                <br/><br/>
 
                 <div className="container">
                     <div className="skills html" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">85%</div>

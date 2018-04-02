@@ -52,6 +52,7 @@ class App extends Component {
               <Link to='/csharp'><img src={csharp} className="App-icons" alt="c-sharp"/></Link>
               
             </div>
+            
             <div>
               <Home />
             </div>

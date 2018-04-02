@@ -10,8 +10,7 @@ class ReactPage extends Component {
             <div className="App-intro">
                
                 <img src={react} alt="React"/>
-                <h1>React</h1>
-                <br/>
+                <br/><br/>
 
                 <div className="container">
                     <div className="skills react" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">10%</div>

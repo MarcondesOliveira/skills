@@ -8,8 +8,7 @@ class Cplusplus extends Component {
             <div className="App-intro">
                 
                 <img src={cplusplus} alt="C++" />
-                <h1></h1>
-                <br />
+                <br/><br/>
 
                 <div className="container">
                     <div className="skills cplusplus" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">35%</div>

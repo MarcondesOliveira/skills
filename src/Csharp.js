@@ -8,8 +8,7 @@ class Csharp extends Component {
             <div className="App-intro">
                 
                 <img src={csharp} alt="C-sharp" />
-                <h1></h1>
-                <br />
+                <br/><br/>
 
                 <div className="container">
                     <div className="skills csharp" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>

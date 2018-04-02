@@ -8,9 +8,7 @@ class C extends Component {
             <div className="App-intro">
                 
                 <img src={c} alt="C" />
-                
-                <h1></h1>
-                <br />
+                <br/><br/>
 
                 <div className="container">
                     <div className="skills c" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>

@@ -10,8 +10,7 @@ class Java extends Component {
             <div className="App-intro">
                
                 <img src={java} alt="Java"/>
-                <h1>Java</h1>
-                <br/>
+                <br/><br/>
 
                 <div className="container">
                     <div className="skills java" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">60%</div>

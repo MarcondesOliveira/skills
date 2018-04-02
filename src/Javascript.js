@@ -10,8 +10,7 @@ class Javascript extends Component {
             <div className="App-intro">
                 
                 <img src={javascript} alt="JavaScript" />
-                <h1>JavaScript</h1>
-                <br />
+                <br/><br/>
 
                 <div className="container">
                     <div className="skills js" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
